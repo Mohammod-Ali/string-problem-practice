@@ -9,6 +9,6 @@ function reverseWords(str){
     return reversed
 }
 
-
+  
 const myString = 'I am a good boy'
 console.log(reverseWords(myString))
